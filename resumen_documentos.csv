@@ -1,0 +1,6 @@
+Número Documento,Título,Autor,Fecha Creación,Estado,Prioridad,Tipo Documento,Ubicación Archivo,Última Modificación,Observaciones
+DOC-001,Plantilla Ejemplo 1,Juan Pérez,2024-01-15,Borrador,Alta,Informe,plantilla_documento.docx,2024-01-15,Documento en revisión
+DOC-002,Procedimiento Operativo,María González,2024-01-20,Aprobado,Media,Procedimiento,/docs/procedimiento.docx,2024-01-22,Versión final aprobada
+DOC-003,Manual de Usuario,Carlos Rodríguez,2024-01-25,En Proceso,Alta,Manual,/docs/manual_usuario.docx,2024-01-28,Pendiente revisión técnica
+DOC-004,Reporte Mensual,Ana López,2024-02-01,Completado,Baja,Reporte,/reports/reporte_enero.docx,2024-02-01,Reporte enero finalizado
+DOC-005,Política de Calidad,Roberto Silva,2024-02-05,Borrador,Alta,Política,/policies/calidad.docx,2024-02-05,Primera versión

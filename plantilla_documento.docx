@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:body>
+    <w:p>
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="28"/>
+        </w:rPr>
+        <w:t>PLANTILLA DE DOCUMENTO</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+        <w:t>Fecha: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>[FECHA_AUTO]</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+        <w:t>Número de Documento: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>[NUM_DOCUMENTO]</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+        <w:t>Título: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>[TITULO_DOCUMENTO]</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+        <w:t>Autor: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>[AUTOR]</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="240" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="24"/>
+        </w:rPr>
+        <w:t>CONTENIDO PRINCIPAL</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Este es el contenido principal del documento. Aquí puede incluir:</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:ind w:left="360"/>
+      </w:pPr>
+      <w:r>
+        <w:t>• Descripción detallada</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:ind w:left="360"/>
+      </w:pPr>
+      <w:r>
+        <w:t>• Objetivos del documento</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:ind w:left="360"/>
+      </w:pPr>
+      <w:r>
+        <w:t>• Procedimientos o instrucciones</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="60" w:after="60"/>
+        <w:ind w:left="360"/>
+      </w:pPr>
+      <w:r>
+        <w:t>• Resultados esperados</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="240" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+        <w:t>Estado del Documento: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>[ESTADO]</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="120" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+        </w:rPr>
+        <w:t>Prioridad: </w:t>
+      </w:r>
+      <w:r>
+        <w:t>[PRIORIDAD]</w:t>
+      </w:r>
+    </w:p>
+    
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="240" w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+        </w:rPr>
+        <w:t>Nota: Este documento está vinculado con el resumen en archivo Excel "resumen_documentos.xlsx"</w:t>
+      </w:r>
+    </w:p>
+  </w:body>
+</w:document>
